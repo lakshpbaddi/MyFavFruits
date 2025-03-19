@@ -1,0 +1,150 @@
+#chart{
+    background-image: url(fruits.jpg);
+    background-size: cover;
+    height: 100vh;
+    margin:0px; 
+}
+#new{
+    height: 10vb;
+    background-color: brown;
+    display: flex;
+}
+#head{
+   font-size: 8vb;
+   text-align: center;
+   margin-top: 0%;
+}
+#frt{
+    padding: 10px;
+    padding-left: 500px;
+}
+#prod1{
+    height: 50vb;
+    width:30vb ;
+    padding: 3vb;
+    border: 0.5vb solid rgb(255, 255, 255);
+    border-radius: 5vb;
+    font-size: 2vb;
+    text-align: center;
+    background-color: rgb(227, 178, 54);
+}
+#b{
+    margin: 0%;
+}
+#buy1{
+    padding: 2vb;
+    border-radius: 10px;
+    background-color: rgb(204, 119, 50);
+    font-size: 20px;
+    border-color: aliceblue;
+    font
+}
+
+.p1{
+    margin: 20px;
+}
+.fruit-container{
+    display: flex;
+    gap: 60px;
+    padding: 40px;
+}
+
+
+
+#prod2{
+    height: 50vb;
+    width:30vb ;
+    padding: 3vb;
+    border: 0.5vb solid rgb(255, 255, 255);
+    border-radius: 5vb;
+    font-size: 2vb;
+    text-align: center;
+    background-color: rgb(212, 70, 70);
+}
+#buy2{
+    padding: 2vb;
+    border-radius: 10px;
+    background-color: rgb(182, 21, 21);
+    font-size: 20px;
+    border-color: aliceblue;
+}
+
+
+
+#prod3{
+    height: 50vb;
+    width:30vb ;
+    padding: 3vb;
+    border: 0.5vb solid rgb(255, 255, 255);
+    border-radius: 5vb;
+    font-size: 2vb;
+    text-align: center;
+    background-color: rgb(90, 188, 98);
+}
+#buy3{
+    padding: 2vb;
+    border-radius: 10px;
+    background-color: rgb(16, 115, 9);
+    font-size: 20px;
+    border-color: aliceblue;
+}
+
+
+#prod4{
+    height: 50vb;
+    width:30vb ;
+    padding: 3vb;
+    border: 0.5vb solid rgb(255, 255, 255);
+    border-radius: 5vb;
+    font-size: 2vb;
+    text-align: center;
+    background-color: rgb(236, 131, 19);
+}
+#buy4{
+    padding: 2vb;
+    border-radius: 10px;
+    background-color: rgb(167, 61, 0);
+    font-size: 20px;
+    border-color: aliceblue;
+} 
+#chart2{
+    display: flex;
+    filter: blur(1px);
+    height: 250px;
+}
+#about{
+    padding: 15px;
+    padding-top: 5px;
+}
+
+#ad{
+    height: 240px;
+}
+
+#tc{
+    margin: 0px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#thank{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#insta{
+    display: flex;
+    padding-left: 600px;
+    padding-right: 600px;
+}
+
+#logo{
+    padding-top: 15px;
+    padding-right: 10px;
+}
+
+#ads{
+    display: flex;
+    padding-left: 40px;
+    padding-top: 50px;
+}
